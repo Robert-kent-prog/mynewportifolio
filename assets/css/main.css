@@ -435,6 +435,13 @@ p {
   font-size: 1.02rem;
 }
 
+.section-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin-top: 1.25rem;
+}
+
 .about-grid,
 .skills-grid,
 .projects-grid,
